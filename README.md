@@ -19,7 +19,8 @@ __Приложение не является заменой физическим
 
 ### ВЫПОЛНЕНИЕ ЗАДАНИЯ
 
-Исходный код соответсвует принципам SOLID. Использован паттерн проектирования - Singleton.  Оба прототипа баз данных __DbPrototypeUsersSFU__ и __DbPrototypeLic__ - Singleton, реализованные с помощью ___companion object___.  
+Исходный код соответсвует принципам ___SOLID___. Использован паттерн проектирования - ___Singleton___.
+Оба прототипа баз данных __DbPrototypeUsersSFU__ и __DbPrototypeLic__ - Singleton, реализованные с помощью __companion object__.  
 Также можно сказать, что __object User__ и __object ExampleDbs__ тоже реализуют паттерн Singleton.
 
 ### ИСПОЛЬЗОВАНИЕ
